@@ -147,7 +147,7 @@ void main()
     }
 }
 
-6.6. Write a program to find the number of composite numbers in an array of elements Sample Input:
+6.Write a program to find the number of composite numbers in an array of elements Sample Input:
 Array of elements = {16, 18, 27, 16, 23, 21, 19}
 Sample Output:
 Number of Composite Numbers = 5
